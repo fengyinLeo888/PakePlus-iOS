@@ -1,0 +1,26 @@
+{
+  "name": "AI 健身助手",
+  "short_name": "健身助手",
+  "description": "口袋里的健康生活教练：AI 定制训练 + 健康打卡 + 记录分析",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#14532d",
+  "background_color": "#f6f8f6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
