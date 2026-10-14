@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 应用图标：哑铃 + 深绿底（PWA 主屏幕图标） -->
+  <rect width="100" height="100" rx="22" fill="#14532d"/>
+  <g stroke="#dcfce7" stroke-width="9" stroke-linecap="round">
+    <!-- 哑铃横杆 -->
+    <line x1="26" y1="50" x2="74" y2="50"/>
+    <!-- 左侧配重 -->
+    <line x1="26" y1="36" x2="26" y2="64"/>
+    <line x1="17" y1="41" x2="17" y2="59"/>
+    <!-- 右侧配重 -->
+    <line x1="74" y1="36" x2="74" y2="64"/>
+    <line x1="83" y1="41" x2="83" y2="59"/>
+  </g>
+</svg>
